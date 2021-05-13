@@ -7,7 +7,8 @@ Custom Extruder for MK3 3D printer
 - you will need to send the following gcode commands to calibrate for the gear reduction:
 ```M350 E16
 M92 E415
-M500```
+M500
+```
 
 These files are currently in development. Don't expect everything to be perfect.
 
