@@ -9,3 +9,9 @@ These files are currently in development. Don't expect everything to be perfect.
 
 April 18, 2021
 Created repo and uploaded files
+
+May 12, 2021
+Fixed reduced x build volume. should pass self check now.
+-Moved fan fwd so it no longer contacts x carriage during auto home
+-trimmed back cable management guides on carriage
+-modified pinda clamp
