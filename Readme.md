@@ -5,7 +5,8 @@ Custom Extruder for MK3 3D printer
 - MMU2 only (or run w/o runout sensor)
 - requires custom firmware or custom sensor. see: https://www.prusaprinters.org/prints/3091-delta-p-extruder
 - you will need to send the following gcode commands to calibrate for the gear reduction:
-```M350 E16
+```
+M350 E16
 M92 E415
 M500
 ```
