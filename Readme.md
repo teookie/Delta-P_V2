@@ -13,13 +13,13 @@ M500
 
 These files are currently in development. Don't expect everything to be perfect.
 
-June 21, 2021
+June 21, 2021 
 added:
-brace_stock_frame
+brace_stock_frame 
 clamp_stock_frame
 
-renamed:
-brace --> brace_bear_frame
+renamed: 
+brace --> brace_bear_frame 
 clamp --> clamp_bear_frame
 
 Updated toolholder to allow sensor connector to plug into the back of the sensor. Requires soldering the 3 pin header on the other side of the pcb. Improves wire routing.
