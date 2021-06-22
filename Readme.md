@@ -13,9 +13,9 @@ M500
 
 These files are currently in development. Don't expect everything to be perfect.
 
-June 21, 2021 
+June 21, 2021  
 added:
-brace_stock_frame 
+brace_stock_frame  
 clamp_stock_frame
 
 renamed: 
